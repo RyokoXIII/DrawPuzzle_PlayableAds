@@ -1,0 +1,423 @@
+
+girl.png
+size: 2034, 1957
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+alien
+  rotate: false
+  xy: 1726, 1593
+  size: 306, 229
+  orig: 308, 231
+  offset: 1, 1
+  index: -1
+baby
+  rotate: false
+  xy: 418, 544
+  size: 389, 345
+  orig: 464, 638
+  offset: 0, 0
+  index: -1
+burn face
+  rotate: true
+  xy: 2, 1803
+  size: 141, 156
+  orig: 179, 168
+  offset: 7, 5
+  index: -1
+cow
+  rotate: false
+  xy: 1398, 677
+  size: 487, 304
+  orig: 487, 304
+  offset: 0, 0
+  index: -1
+effect turn
+  rotate: false
+  xy: 336, 1739
+  size: 166, 155
+  orig: 166, 155
+  offset: 0, 0
+  index: -1
+eye close
+  rotate: false
+  xy: 1753, 1824
+  size: 268, 131
+  orig: 268, 131
+  offset: 0, 0
+  index: -1
+fire couter
+  rotate: true
+  xy: 504, 1697
+  size: 177, 237
+  orig: 177, 237
+  offset: 0, 0
+  index: -1
+fire couter eff/5
+  rotate: false
+  xy: 909, 766
+  size: 487, 297
+  orig: 552, 595
+  offset: 28, 147
+  index: -1
+fire couter eff/6
+  rotate: false
+  xy: 930, 1670
+  size: 466, 156
+  orig: 552, 595
+  offset: 43, 149
+  index: -1
+hand R
+  rotate: true
+  xy: 809, 410
+  size: 354, 573
+  orig: 354, 577
+  offset: 0, 4
+  index: -1
+head 1
+  rotate: false
+  xy: 2, 1222
+  size: 395, 302
+  orig: 396, 303
+  offset: 0, 0
+  index: -1
+head 2
+  rotate: false
+  xy: 1384, 308
+  size: 401, 367
+  orig: 401, 367
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 842, 1863
+  size: 113, 92
+  orig: 113, 92
+  offset: 0, 0
+  index: -1
+leg L
+  rotate: true
+  xy: 399, 1184
+  size: 269, 565
+  orig: 269, 565
+  offset: 0, 0
+  index: -1
+leg R
+  rotate: true
+  xy: 321, 891
+  size: 291, 586
+  orig: 291, 586
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 1946
+  size: 187, 9
+  orig: 188, 9
+  offset: 0, 0
+  index: -1
+paper
+  rotate: false
+  xy: 740, 1876
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+run effect
+  rotate: false
+  xy: 743, 1676
+  size: 185, 185
+  orig: 186, 186
+  offset: 1, 0
+  index: -1
+shaking
+  rotate: true
+  xy: 1324, 1371
+  size: 257, 333
+  orig: 271, 362
+  offset: 11, 29
+  index: -1
+shit
+  rotate: false
+  xy: 553, 1884
+  size: 185, 71
+  orig: 185, 71
+  offset: 0, 0
+  index: -1
+skin01/angry
+  rotate: false
+  xy: 1659, 1290
+  size: 316, 301
+  orig: 316, 301
+  offset: 0, 0
+  index: -1
+skin01/box chat
+  rotate: true
+  xy: 2, 555
+  size: 334, 414
+  orig: 336, 414
+  offset: 1, 0
+  index: -1
+skin01/happy
+  rotate: false
+  xy: 1285, 1065
+  size: 313, 304
+  orig: 313, 304
+  offset: 0, 0
+  index: -1
+skin01/nomal
+  rotate: false
+  xy: 2, 912
+  size: 317, 308
+  orig: 317, 308
+  offset: 0, 0
+  index: -1
+skin01/sad
+  rotate: false
+  xy: 966, 1151
+  size: 317, 302
+  orig: 317, 302
+  offset: 0, 0
+  index: -1
+skin01/smile
+  rotate: false
+  xy: 1600, 983
+  size: 321, 305
+  orig: 321, 305
+  offset: 0, 0
+  index: -1
+skin02/ear
+  rotate: true
+  xy: 798, 1455
+  size: 213, 524
+  orig: 214, 524
+  offset: 0, 0
+  index: -1
+skin02/mouth
+  rotate: false
+  xy: 2, 175
+  size: 595, 367
+  orig: 595, 367
+  offset: 0, 0
+  index: -1
+skin04/angry
+  rotate: false
+  xy: 2, 1526
+  size: 396, 211
+  orig: 396, 211
+  offset: 0, 0
+  index: -1
+skin04/eyes
+  rotate: false
+  xy: 1398, 1630
+  size: 326, 196
+  orig: 326, 196
+  offset: 0, 0
+  index: -1
+skin04/happy
+  rotate: false
+  xy: 400, 1463
+  size: 396, 211
+  orig: 396, 211
+  offset: 0, 0
+  index: -1
+skin04/nomal
+  rotate: false
+  xy: 191, 1913
+  size: 233, 42
+  orig: 234, 42
+  offset: 0, 0
+  index: -1
+skin04/sad
+  rotate: false
+  xy: 957, 1828
+  size: 396, 127
+  orig: 396, 127
+  offset: 0, 0
+  index: -1
+skin04/smile
+  rotate: false
+  xy: 1355, 1828
+  size: 396, 127
+  orig: 396, 127
+  offset: 0, 0
+  index: -1
+skin06/piper
+  rotate: true
+  xy: 599, 2
+  size: 406, 684
+  orig: 406, 684
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 426, 1902
+  size: 53, 56
+  orig: 59, 67
+  offset: 3, 8
+  index: -1
+toy
+  rotate: true
+  xy: 160, 1758
+  size: 153, 174
+  orig: 153, 174
+  offset: 0, 0
+  index: -1
+water
+  rotate: true
+  xy: 484, 1896
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+
+girl_2.png
+size: 2048, 1877
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+FB_ildeface
+  rotate: false
+  xy: 961, 12
+  size: 514, 480
+  orig: 549, 588
+  offset: 17, 87
+  index: -1
+bigcry
+  rotate: false
+  xy: 1477, 2
+  size: 418, 570
+  orig: 418, 570
+  offset: 0, 0
+  index: -1
+cake
+  rotate: false
+  xy: 2, 494
+  size: 1224, 1381
+  orig: 1224, 1381
+  offset: 0, 0
+  index: -1
+cry
+  rotate: false
+  xy: 2, 94
+  size: 957, 398
+  orig: 957, 398
+  offset: 0, 0
+  index: -1
+face toilet
+  rotate: false
+  xy: 1228, 574
+  size: 549, 588
+  orig: 549, 588
+  offset: 0, 0
+  index: -1
+skin03/hair back
+  rotate: true
+  xy: 1228, 1164
+  size: 711, 818
+  orig: 711, 818
+  offset: 0, 0
+  index: -1
+
+girl_3.png
+size: 1760, 2024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bigcry2
+  rotate: true
+  xy: 1125, 1587
+  size: 435, 619
+  orig: 435, 622
+  offset: 0, 3
+  index: -1
+face
+  rotate: false
+  xy: 2, 574
+  size: 514, 536
+  orig: 514, 541
+  offset: 0, 0
+  index: -1
+face - Copy
+  rotate: false
+  xy: 2, 1112
+  size: 514, 488
+  orig: 514, 541
+  offset: 0, 48
+  index: -1
+face hurry
+  rotate: true
+  xy: 1061, 1071
+  size: 514, 541
+  orig: 514, 541
+  offset: 0, 0
+  index: -1
+face hurry up
+  rotate: true
+  xy: 518, 1076
+  size: 514, 541
+  orig: 514, 541
+  offset: 0, 0
+  index: -1
+face-cry
+  rotate: true
+  xy: 518, 560
+  size: 514, 541
+  orig: 514, 541
+  offset: 0, 0
+  index: -1
+fire couter eff/1
+  rotate: true
+  xy: 588, 7
+  size: 534, 584
+  orig: 552, 595
+  offset: 6, 3
+  index: -1
+fire couter eff/2
+  rotate: true
+  xy: 2, 25
+  size: 533, 584
+  orig: 552, 595
+  offset: 6, 3
+  index: -1
+fire couter eff/3
+  rotate: true
+  xy: 1174, 2
+  size: 539, 584
+  orig: 552, 595
+  offset: 7, 3
+  index: -1
+fire couter eff/4
+  rotate: true
+  xy: 1061, 543
+  size: 526, 562
+  orig: 552, 595
+  offset: 12, 7
+  index: -1
+hand L
+  rotate: true
+  xy: 2, 1602
+  size: 420, 536
+  orig: 420, 536
+  offset: 0, 0
+  index: -1
+skin04/Layer 9
+  rotate: false
+  xy: 540, 1592
+  size: 583, 430
+  orig: 583, 430
+  offset: 0, 0
+  index: -1
+
+girl_4.png
+size: 963, 1594
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 959, 1590
+  orig: 959, 1590
+  offset: 0, 0
+  index: -1

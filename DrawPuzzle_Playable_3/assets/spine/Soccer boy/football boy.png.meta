@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6c78e285-bda6-43ed-93f9-48a1e434001f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1969,
+  "height": 1926,
+  "platformSettings": {},
+  "subMetas": {
+    "football boy": {
+      "ver": "1.0.6",
+      "uuid": "d6559bc5-c289-450e-b22e-effe26dddfc9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6c78e285-bda6-43ed-93f9-48a1e434001f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1964,
+      "height": 1922,
+      "rawWidth": 1969,
+      "rawHeight": 1926,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

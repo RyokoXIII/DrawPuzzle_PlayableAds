@@ -1,0 +1,206 @@
+{
+"skeleton": {
+	"hash": "d3Iz/DYffJ8",
+	"spine": "3.8-from-4.0-from-4.1.14",
+	"x": -126.84,
+	"y": -23.18,
+	"width": 239,
+	"height": 285.46,
+	"images": "./images/",
+	"audio": "E:/draw puzzle/khanh/ANIMATION/toilet"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "head", "parent": "root", "x": -29.22, "y": 74.18 },
+	{ "name": "head2", "parent": "head", "length": 95.27, "rotation": 88.2, "x": 0.14, "y": 25.14 },
+	{ "name": "face 1", "parent": "head2", "rotation": -88.2, "x": 77.49, "y": 16.08 },
+	{ "name": "toilet", "parent": "root", "x": -7.34, "y": -3.27 },
+	{ "name": "elip", "parent": "head2", "rotation": -88.2, "x": 150.51, "y": 6, "scaleY": 0.3137 },
+	{ "name": "bone", "parent": "elip" },
+	{ "name": "spark", "parent": "bone", "x": 0.67, "y": -75.37, "transform": "onlyTranslation" },
+	{ "name": "fire couter eff/1", "parent": "root", "x": -42.44, "y": 164.15 },
+	{ "name": "spark2", "parent": "bone", "x": 72.26, "y": -0.83, "transform": "onlyTranslation" },
+	{ "name": "spark3", "parent": "bone", "x": -73.28, "y": -0.83, "transform": "onlyTranslation" },
+	{ "name": "spark4", "parent": "bone", "x": -1.1, "y": 73.72, "transform": "onlyTranslation" }
+],
+"slots": [
+	{ "name": "toilet", "bone": "toilet", "attachment": "toilet" },
+	{ "name": "head", "bone": "head2", "attachment": "head" },
+	{ "name": "face 1", "bone": "face 1", "attachment": "face 2" },
+	{ "name": "spark", "bone": "spark" },
+	{ "name": "spark2", "bone": "spark2" },
+	{ "name": "spark3", "bone": "spark3" },
+	{ "name": "spark4", "bone": "spark4" },
+	{ "name": "Ellipse 1", "bone": "bone" },
+	{ "name": "fire couter eff/1", "bone": "fire couter eff/1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Ellipse 1": {
+				"Ellipse 1": { "width": 148, "height": 148 }
+			},
+			"face 1": {
+				"face 1": { "width": 85, "height": 108 },
+				"face 2": { "x": 2, "width": 89, "height": 120 }
+			},
+			"fire couter eff/1": {
+				"fire couter eff/1": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 108.88, -117.36, -108.88, -117.36, -108.88, 117.36, 108.88, 117.36 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 552,
+					"height": 595
+				},
+				"fire couter eff/2": { "type": "linkedmesh", "parent": "fire couter eff/1", "width": 552, "height": 595 },
+				"fire couter eff/3": { "type": "linkedmesh", "parent": "fire couter eff/1", "width": 552, "height": 595 },
+				"fire couter eff/4": { "type": "linkedmesh", "parent": "fire couter eff/1", "width": 552, "height": 595 },
+				"fire couter eff/5": { "type": "linkedmesh", "parent": "fire couter eff/1", "width": 552, "height": 595 },
+				"fire couter eff/6": { "type": "linkedmesh", "parent": "fire couter eff/1", "width": 552, "height": 595 }
+			},
+			"head": {
+				"head": {
+					"type": "mesh",
+					"uvs": [ 0.46451, 0, 0.74715, 0.02714, 0.87037, 0.12139, 0.9131, 0.23115, 0.89829, 0.34023, 0.95119, 0.34839, 0.99662, 0.41991, 0.97516, 0.5302, 0.8924, 0.62297, 0.79875, 0.61293, 0.66521, 0.78266, 0.65551, 0.82845, 0.64572, 0.87462, 0.66198, 0.96341, 0.32546, 0.99364, 0.31655, 0.98142, 0.32561, 0.93001, 0.3299, 0.89648, 0.33355, 0.86795, 0.24759, 0.83697, 0.0024, 0.63685, 0.0186, 0.46884, 0.02788, 0.43207, 0.02418, 0.236, 0.06575, 0.16466, 0.1696, 0.07271, 0.42793, 0, 0.40479, 0.86638, 0.47281, 0.85535, 0.55595, 0.82481, 0.61642, 0.79342, 0.40731, 0.88844, 0.48163, 0.87317, 0.56225, 0.85111, 0.40353, 0.92492, 0.47911, 0.9088, 0.56225, 0.89268 ],
+					"triangles": [ 12, 33, 11, 36, 32, 33, 36, 33, 12, 35, 31, 32, 35, 32, 36, 34, 31, 35, 34, 17, 31, 16, 17, 34, 36, 12, 13, 34, 14, 15, 34, 15, 16, 14, 34, 35, 13, 14, 35, 13, 35, 36, 3, 1, 2, 9, 22, 23, 5, 6, 4, 0, 1, 4, 3, 4, 1, 6, 9, 4, 7, 9, 6, 8, 9, 7, 25, 26, 0, 0, 4, 25, 4, 24, 25, 4, 9, 24, 24, 9, 23, 9, 21, 22, 21, 30, 20, 21, 9, 30, 10, 30, 9, 30, 19, 20, 11, 30, 10, 29, 30, 11, 29, 19, 30, 33, 29, 11, 28, 19, 29, 28, 29, 33, 27, 19, 28, 18, 19, 27, 32, 28, 33, 32, 31, 27, 32, 27, 28, 18, 31, 17, 31, 18, 27 ],
+					"vertices": [ 1, 2, 162.72, 9.93, 1, 1, 2, 158.58, -27.53, 1, 1, 2, 140.62, -44.36, 1, 1, 2, 119.3, -50.67, 1, 1, 2, 97.87, -49.39, 1, 1, 2, 96.49, -56.42, 1, 1, 2, 82.66, -62.85, 1, 1, 2, 60.97, -60.7, 1, 1, 2, 42.45, -50.35, 1, 1, 2, 44.03, -37.93, 1, 2, 2, 10.23, -21.35, 0.9983, 1, 21.81, 34.7, 0.0017, 2, 2, 1.22, -20.36, 0.50122, 1, 20.53, 25.72, 0.49878, 1, 1, 19.24, 16.67, 1, 1, 1, 21.38, -0.73, 1, 1, 1, -23.04, -6.66, 1, 1, 1, -24.22, -4.26, 1, 2, 2, -20.04, 22.55, 0.01539, 1, -23.02, 5.82, 0.98461, 2, 2, -13.46, 22.19, 0.54738, 1, -22.45, 12.39, 0.45262, 1, 2, -7.85, 21.88, 1, 1, 2, -2.14, 33.41, 1, 1, 2, 36.05, 66.99, 1, 1, 2, 69.03, 65.88, 1, 1, 2, 76.27, 64.88, 1, 1, 2, 114.67, 66.58, 1, 1, 2, 128.82, 61.53, 1, 1, 2, 147.26, 48.39, 1, 1, 2, 162.57, 14.76, 1, 1, 2, -7.25, 12.49, 1, 1, 2, -4.81, 3.58, 1, 1, 2, 1.52, -7.2, 1, 1, 2, 7.92, -14.98, 1, 2, 2, -11.56, 12.02, 0.41587, 1, -12.24, 13.96, 0.58413, 2, 2, -8.26, 2.31, 0.59518, 1, -2.43, 16.96, 0.40482, 2, 2, -3.61, -8.19, 0.54059, 1, 8.22, 21.28, 0.45941, 2, 2, -18.72, 12.3, 0.31853, 1, -12.73, 6.81, 0.68147, 2, 2, -15.25, 2.42, 0.38645, 1, -2.76, 9.97, 0.61355, 2, 2, -11.75, -8.45, 0.19399, 1, 8.22, 13.13, 0.80601 ],
+					"hull": 27,
+					"edges": [ 0, 52, 0, 2, 2, 4, 12, 14, 14, 16, 16, 18, 18, 20, 24, 26, 26, 28, 38, 40, 46, 48, 48, 50, 50, 52, 38, 36, 28, 30, 32, 30, 40, 42, 42, 44, 44, 46, 4, 6, 10, 12, 6, 8, 8, 10, 36, 54, 54, 56, 56, 58, 58, 60, 60, 20, 32, 34, 34, 36, 20, 22, 22, 24 ],
+					"width": 132,
+					"height": 196
+				}
+			},
+			"spark": {
+				"spark": { "x": 0.5, "width": 50, "height": 51 }
+			},
+			"spark2": {
+				"spark": { "x": 0.5, "width": 50, "height": 51 }
+			},
+			"spark3": {
+				"spark": { "x": 0.5, "width": 50, "height": 51 }
+			},
+			"spark4": {
+				"spark": { "x": 0.5, "width": 50, "height": 51 }
+			},
+			"toilet": {
+				"toilet": { "y": 90.1, "width": 239, "height": 220 }
+			}
+		}
+	}
+],
+"animations": {
+	"hit": {
+		"slots": {
+			"Ellipse 1": {
+				"attachment": [
+					{ "name": "Ellipse 1" },
+					{ "time": 1.1, "name": null }
+				]
+			},
+			"face 1": {
+				"attachment": [
+					{ "name": "face 1" },
+					{ "time": 1.1, "name": null }
+				]
+			},
+			"fire couter eff/1": {
+				"color": [
+					{ "time": 1.3667, "color": "ffffff6f" }
+				],
+				"attachment": [
+					{ "time": 0.8333, "name": "fire couter eff/1" },
+					{ "time": 1.1333, "name": "fire couter eff/2" },
+					{ "time": 1.2, "name": "fire couter eff/3" },
+					{ "time": 1.3, "name": "fire couter eff/4" },
+					{ "time": 1.3667, "name": "fire couter eff/5" },
+					{ "time": 1.4667, "name": "fire couter eff/6" },
+					{ "time": 1.5333, "name": null }
+				]
+			},
+			"head": {
+				"attachment": [
+					{ "time": 1.1, "name": null }
+				]
+			},
+			"spark": {
+				"attachment": [
+					{ "name": "spark" },
+					{ "time": 1.1, "name": null }
+				]
+			},
+			"spark2": {
+				"attachment": [
+					{ "name": "spark" },
+					{ "time": 1.1, "name": null }
+				]
+			},
+			"spark3": {
+				"attachment": [
+					{ "name": "spark" },
+					{ "time": 1.1, "name": null }
+				]
+			},
+			"spark4": {
+				"attachment": [
+					{ "name": "spark" },
+					{ "time": 1.1, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": 359.67 }
+				]
+			},
+			"elip": {
+				"rotate": [
+					{ "angle": -11.03 },
+					{ "time": 0.5, "angle": 15.24 },
+					{ "time": 1, "angle": -11.03 }
+				]
+			},
+			"head2": {
+				"rotate": [
+					{ "angle": 21.75 },
+					{ "time": 0.5, "angle": -21.7 },
+					{ "time": 1, "angle": 21.75 }
+				]
+			},
+			"fire couter eff/1": {
+				"scale": [
+					{ "time": 0.8333, "x": 0.629, "y": 0.629 },
+					{ "time": 0.9333 },
+					{ "time": 1.5667, "x": 1.543, "y": 1.543 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"bones": {
+			"head2": {
+				"rotate": [
+					{ "angle": 11.51 },
+					{ "time": 0.3333, "angle": -6.27 },
+					{ "time": 0.6667, "angle": 11.51 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.3333, "x": 9.62, "y": 67.85 },
+					{ "time": 0.6667 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 1.035, "y": 1.035 },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	}
+}
+}

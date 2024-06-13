@@ -1,0 +1,186 @@
+
+football boy.png
+size: 1969, 1926
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+baby
+  rotate: false
+  xy: 1045, 1579
+  size: 389, 345
+  orig: 464, 638
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 843, 1726
+  size: 200, 198
+  orig: 200, 198
+  offset: 0, 0
+  index: -1
+bigcry
+  rotate: true
+  xy: 473, 1306
+  size: 418, 570
+  orig: 418, 570
+  offset: 0, 0
+  index: -1
+bigcry2
+  rotate: true
+  xy: 2, 473
+  size: 435, 619
+  orig: 435, 622
+  offset: 0, 3
+  index: -1
+cry
+  rotate: false
+  xy: 817, 787
+  size: 957, 398
+  orig: 957, 398
+  offset: 0, 0
+  index: -1
+effect turn
+  rotate: false
+  xy: 489, 1770
+  size: 165, 154
+  orig: 166, 155
+  offset: 1, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 1383
+  size: 469, 460
+  orig: 509, 650
+  offset: 7, 173
+  index: -1
+face - idiechap2
+  rotate: true
+  xy: 2, 2
+  size: 469, 504
+  orig: 509, 650
+  offset: 7, 129
+  index: -1
+hand L
+  rotate: true
+  xy: 623, 334
+  size: 451, 612
+  orig: 451, 612
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: true
+  xy: 1237, 322
+  size: 463, 730
+  orig: 463, 730
+  offset: 0, 0
+  index: -1
+head 2
+  rotate: false
+  xy: 1436, 1557
+  size: 401, 367
+  orig: 401, 367
+  offset: 0, 0
+  index: -1
+leg L
+  rotate: true
+  xy: 2, 910
+  size: 394, 813
+  orig: 394, 814
+  offset: 0, 1
+  index: -1
+leg R
+  rotate: true
+  xy: 1045, 1187
+  size: 368, 848
+  orig: 368, 848
+  offset: 0, 0
+  index: -1
+leg toilet
+  rotate: false
+  xy: 260, 1858
+  size: 125, 66
+  orig: 136, 76
+  offset: 6, 4
+  index: -1
+line
+  rotate: false
+  xy: 2, 1915
+  size: 187, 9
+  orig: 188, 9
+  offset: 0, 0
+  index: -1
+paper
+  rotate: false
+  xy: 387, 1845
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+run effect
+  rotate: false
+  xy: 656, 1739
+  size: 185, 185
+  orig: 186, 186
+  offset: 1, 0
+  index: -1
+water
+  rotate: true
+  xy: 191, 1865
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+
+football boy_2.png
+size: 1793, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+FB_ildeface
+  rotate: true
+  xy: 489, 513
+  size: 509, 650
+  orig: 509, 650
+  offset: 0, 0
+  index: -1
+FB_sad
+  rotate: true
+  xy: 1141, 513
+  size: 509, 650
+  orig: 509, 650
+  offset: 0, 0
+  index: -1
+FB_toilet
+  rotate: true
+  xy: 2, 2
+  size: 509, 650
+  orig: 509, 650
+  offset: 0, 0
+  index: -1
+FB_unfotable
+  rotate: true
+  xy: 654, 2
+  size: 509, 650
+  orig: 509, 650
+  offset: 0, 0
+  index: -1
+cryface
+  rotate: true
+  xy: 2, 548
+  size: 474, 485
+  orig: 509, 650
+  offset: 15, 151
+  index: -1
+
+football boy_3.png
+size: 1393, 1971
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 1389, 1967
+  orig: 1389, 1967
+  offset: 0, 0
+  index: -1

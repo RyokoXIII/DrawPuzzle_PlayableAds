@@ -1,0 +1,90 @@
+
+monster chap 4.png
+size: 1270, 1048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body
+  rotate: true
+  xy: 260, 7
+  size: 442, 568
+  orig: 442, 568
+  offset: 0, 0
+  index: -1
+casle
+  rotate: true
+  xy: 523, 459
+  size: 328, 290
+  orig: 328, 290
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 1043, 2
+  size: 399, 179
+  orig: 399, 179
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 451
+  size: 595, 519
+  orig: 595, 519
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: true
+  xy: 2, 3
+  size: 446, 256
+  orig: 446, 256
+  offset: 0, 0
+  index: -1
+l_eyeball
+  rotate: true
+  xy: 523, 796
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 1044, 403
+  size: 224, 384
+  orig: 224, 384
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 523, 882
+  size: 285, 164
+  orig: 285, 164
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 830, 789
+  size: 428, 257
+  orig: 428, 257
+  offset: 0, 0
+  index: -1
+r_eyeball
+  rotate: false
+  xy: 830, 27
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 830, 123
+  size: 211, 348
+  orig: 211, 348
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 815, 473
+  size: 227, 314
+  orig: 227, 314
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+book boy.png
+size: 2943, 1929
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+FB_ildeface
+  rotate: true
+  xy: 2, 32
+  size: 384, 458
+  orig: 384, 458
+  offset: 0, 0
+  index: -1
+FB_ildeface2
+  rotate: true
+  xy: 961, 452
+  size: 381, 449
+  orig: 384, 458
+  offset: 2, 1
+  index: -1
+FB_unfortable
+  rotate: true
+  xy: 462, 32
+  size: 384, 458
+  orig: 384, 458
+  offset: 0, 0
+  index: -1
+baby
+  rotate: true
+  xy: 1760, 941
+  size: 389, 345
+  orig: 464, 638
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 818
+  size: 723, 1109
+  orig: 723, 1109
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 2618, 292
+  size: 277, 248
+  orig: 277, 248
+  offset: 0, 0
+  index: -1
+cow
+  rotate: false
+  xy: 1377, 146
+  size: 487, 304
+  orig: 487, 304
+  offset: 0, 0
+  index: -1
+cry
+  rotate: false
+  xy: 2, 418
+  size: 957, 398
+  orig: 957, 398
+  offset: 0, 0
+  index: -1
+effect turn
+  rotate: true
+  xy: 2291, 601
+  size: 175, 214
+  orig: 176, 215
+  offset: 1, 0
+  index: -1
+face
+  rotate: true
+  xy: 1245, 839
+  size: 491, 513
+  orig: 495, 516
+  offset: 1, 1
+  index: -1
+face_cryd
+  rotate: true
+  xy: 922, 35
+  size: 381, 453
+  orig: 382, 453
+  offset: 1, 0
+  index: -1
+face_toilet
+  rotate: true
+  xy: 727, 835
+  size: 495, 516
+  orig: 495, 516
+  offset: 0, 0
+  index: -1
+fire couter
+  rotate: false
+  xy: 2107, 1093
+  size: 177, 237
+  orig: 177, 237
+  offset: 0, 0
+  index: -1
+fire couter eff/1
+  rotate: false
+  xy: 727, 1332
+  size: 552, 595
+  orig: 552, 595
+  offset: 0, 0
+  index: -1
+fire couter eff/2
+  rotate: false
+  xy: 1281, 1332
+  size: 552, 595
+  orig: 552, 595
+  offset: 0, 0
+  index: -1
+fire couter eff/3
+  rotate: false
+  xy: 1835, 1332
+  size: 552, 595
+  orig: 552, 595
+  offset: 0, 0
+  index: -1
+fire couter eff/4
+  rotate: false
+  xy: 2064, 4
+  size: 552, 595
+  orig: 552, 595
+  offset: 0, 0
+  index: -1
+fire couter eff/5
+  rotate: true
+  xy: 2291, 778
+  size: 552, 595
+  orig: 552, 595
+  offset: 0, 0
+  index: -1
+fire couter eff/6
+  rotate: false
+  xy: 2389, 1332
+  size: 552, 595
+  orig: 552, 595
+  offset: 0, 0
+  index: -1
+hand L
+  rotate: true
+  xy: 2618, 542
+  size: 234, 317
+  orig: 234, 317
+  offset: 0, 0
+  index: -1
+hand R
+  rotate: false
+  xy: 2052, 601
+  size: 237, 338
+  orig: 237, 345
+  offset: 0, 0
+  index: -1
+head 2
+  rotate: false
+  xy: 1412, 470
+  size: 401, 367
+  orig: 401, 367
+  offset: 0, 0
+  index: -1
+heart
+  rotate: true
+  xy: 1470, 31
+  size: 113, 92
+  orig: 113, 92
+  offset: 0, 0
+  index: -1
+leg L
+  rotate: false
+  xy: 1815, 511
+  size: 235, 428
+  orig: 235, 428
+  offset: 0, 0
+  index: -1
+leg R
+  rotate: false
+  xy: 1866, 89
+  size: 196, 420
+  orig: 196, 423
+  offset: 0, 3
+  index: -1
+leg toilet
+  rotate: true
+  xy: 1377, 2
+  size: 142, 91
+  orig: 145, 94
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 21
+  size: 187, 9
+  orig: 188, 9
+  offset: 0, 0
+  index: -1
+paper
+  rotate: true
+  xy: 1564, 44
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+run effect
+  rotate: false
+  xy: 2618, 105
+  size: 185, 185
+  orig: 186, 186
+  offset: 1, 0
+  index: -1
+water
+  rotate: false
+  xy: 1645, 77
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1

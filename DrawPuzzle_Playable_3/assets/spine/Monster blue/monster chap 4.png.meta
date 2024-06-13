@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a50c625d-ef2f-4ff4-99b7-8febc8ec833a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1270,
+  "height": 1048,
+  "platformSettings": {},
+  "subMetas": {
+    "monster chap 4": {
+      "ver": "1.0.6",
+      "uuid": "edf2579c-fcaa-406d-91c7-6469593bce9c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a50c625d-ef2f-4ff4-99b7-8febc8ec833a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1266,
+      "height": 1044,
+      "rawWidth": 1270,
+      "rawHeight": 1048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

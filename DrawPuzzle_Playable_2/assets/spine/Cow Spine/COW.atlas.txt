@@ -1,0 +1,83 @@
+
+COW.png
+size: 763, 1042
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 2, 677
+  size: 469, 363
+  orig: 469, 363
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 54
+  size: 367, 254
+  orig: 367, 282
+  offset: 0, 28
+  index: -1
+Layer 2
+  rotate: false
+  xy: 427, 70
+  size: 257, 161
+  orig: 259, 163
+  offset: 1, 1
+  index: -1
+alien
+  rotate: true
+  xy: 529, 382
+  size: 306, 229
+  orig: 308, 231
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 145, 50
+  orig: 145, 50
+  offset: 0, 0
+  index: -1
+hahaha
+  rotate: true
+  xy: 436, 233
+  size: 442, 91
+  orig: 442, 92
+  offset: 0, 0
+  index: -1
+help me
+  rotate: true
+  xy: 371, 52
+  size: 256, 54
+  orig: 258, 57
+  offset: 1, 1
+  index: -1
+hitef
+  rotate: true
+  xy: 473, 690
+  size: 350, 288
+  orig: 350, 288
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 529, 238
+  size: 189, 142
+  orig: 189, 142
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 310
+  size: 432, 365
+  orig: 432, 365
+  offset: 0, 0
+  index: -1
+moo
+  rotate: true
+  xy: 720, 274
+  size: 106, 38
+  orig: 109, 40
+  offset: 2, 1
+  index: -1
